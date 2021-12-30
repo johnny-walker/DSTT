@@ -1,6 +1,5 @@
 data/
 dump/
-model/
 __pycache__/
 .DS_Store
 *.mp4
